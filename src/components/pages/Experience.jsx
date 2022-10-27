@@ -1,15 +1,15 @@
 import React from "react";
-import html from "../assets/html.png";
-import css from "../assets/css.png";
-import javascript from "../assets/javascript.png";
-import reactImage from "../assets/react.png";
-import github from "../assets/github.png";
-import bootstrap from "../assets/bootstrap.png";
-import mui from "../assets/mui.png";
-import node from "../assets/node.png";
-import reactHooks from "../assets/reactHooks.png";
-import MySql from "../assets/MySql.png";
-import typescript from "../assets/typescript.png";
+import html from "../../assets/html.png";
+import css from "../../assets/css.png";
+import javascript from "../../assets/javascript.png";
+import reactImage from "../../assets/react.png";
+import github from "../../assets/github.png";
+import bootstrap from "../../assets/bootstrap.png";
+import mui from "../../assets/mui.png";
+import node from "../../assets/node.png";
+import reactHooks from "../../assets/reactHooks.png";
+import MySql from "../../assets/MySql.png";
+import typescript from "../../assets/typescript.png";
 
 const Experience = () => {
   const techs = [

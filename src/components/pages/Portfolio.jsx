@@ -1,7 +1,7 @@
 import React from "react";
-import TeamApp from "../assets/portfolio/TeamApp.png";
-import HarryApp from "../assets/portfolio/HarryApp.png";
-import PhoneApp from "../assets/portfolio/PhoneApp.png";
+import TeamApp from "../../assets/portfolio/TeamApp.png";
+import HarryApp from "../../assets/portfolio/HarryApp.png";
+import PhoneApp from "../../assets/portfolio/PhoneApp.png";
 
 const Portfolio = () => {
   const portfolios = [
